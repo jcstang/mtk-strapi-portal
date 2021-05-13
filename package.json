@@ -1,5 +1,5 @@
 {
-  "name": "mtk-strapi-portal",
+  "name": "my-project",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
@@ -28,7 +28,7 @@
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "a070a029-51c6-4a0c-9d5f-80ab5df3b50d"
+    "uuid": "c82875a0-a916-4486-947f-75eb56f3e31a"
   },
   "engines": {
     "node": ">=10.16.0 <=14.x.x",
